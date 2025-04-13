@@ -15,6 +15,6 @@ AI-powered turret system that detects, tracks, and targets objects using vision 
 
 ## Getting Started
 ```bash
-git clone https://github.com/yourusername/SOS-shoot-on-sight.git
+git clone https://github.com/PaarthSuwi/SOS-shoot-on-sight.git
 cd SOS-shoot-on-sight
 bash setup.sh
